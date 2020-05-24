@@ -9,4 +9,5 @@ export default defineConfig({
   },
   outputPath: "docs",
   publicPath: "./",
+  history: { type: "hash" },
 });
