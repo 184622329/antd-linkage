@@ -8,4 +8,7 @@ export default defineConfig({
     includes: ['doc'],
   },
   outputPath: "docs",
+  manifest: {
+    basePath: "/antd-linkage/",
+  }
 });
