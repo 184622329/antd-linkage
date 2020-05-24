@@ -1,3 +1,4 @@
+[查看文档](https://184622329.github.io/antd-linkage/)
 
 ## 基本用法
 使用 `Linkage` 标签包括 `antd` 的 `form` 标签在需要做校验的地方使用 `Linkage.Item` 包裹
