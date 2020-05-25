@@ -6,6 +6,15 @@
     "importHelpers": true,
     "jsx": "react",
     "esModuleInterop": true,
+    "declaration": true,
+
+    "forceConsistentCasingInFileNames": true,
+    "noImplicitReturns": true,
+    "suppressImplicitAnyIndexErrors": true,
+    "noUnusedLocals": true,
+    "experimentalDecorators": true,
+    "skipLibCheck": true,
+
     "sourceMap": true,
     "baseUrl": "./",
     "strict": true,
